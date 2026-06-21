@@ -60,7 +60,7 @@ The dashboard helps analyze:
 
 Add your dashboard screenshot here.
 
-![Dashboard](04_dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
